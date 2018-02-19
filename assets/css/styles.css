@@ -1,0 +1,56 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  background-color: #f7cdde;
+}
+
+h4, h3, h2 {
+  text-align: center;
+  padding: 0.3em;
+}
+
+#intro {
+  margin: 10% 5%;
+}
+
+#intro button {
+  display: block;
+  background: pink;
+  width: 60%;
+  font-size: 1.5em;
+  padding: 0.3em 0;
+  border: 2px solid #f14c90;
+}
+
+#theTrivias {
+  margin: 10%;
+}
+
+#theTrivias button{
+  display: block;
+  background: none;
+  font-size: 1.5em;
+  padding: 0.3em 0;
+  width: 100%;
+  border: 2px solid #f14c90;
+  margin: 1em 0;
+}
+
+#container #next{
+  background: pink;
+  color: black;
+  font-size: 1.5em;
+  border: 2px solid #f14c90;
+  width: 60%;
+  margin: 0 20%;
+  padding: 0.3em 0;
+}
+
