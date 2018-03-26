@@ -7,7 +7,7 @@ Trivia Kawaii es una app móvil en donde puedes poner a prueba tus conocimientos
 
 ### Autora
  
-[*Vanessa Martínez*](https://github.com/vanemarnava)
+[*Vanessa Martinez*](https://github.com/vanemarnava)
 
 ### Desarrollado para 
 [*Laboratoria*](http://www.laboratoria.la/)
